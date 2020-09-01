@@ -1,0 +1,19 @@
+class IntroData {
+  static const String name = "Flutkart";
+  static const String store = "Online Store\n For Everyone";
+  static const String wt1 = "WELCOME";
+  static const String wc1 =
+      "Amazing App with cool features ";
+  static const String wt2 = "DISCOVER PRODUCT";
+  static const String wc2 =
+      "Amazing App with cool features ";
+  static const String wt3 = "ADD TO CART";
+  static const String wc3 =
+      "Amazing App with cool features ";
+  static const String wt4 = "VERIFY AND RECEIVE";
+  static const String wc4 =
+      "Amazing App with cool features ";
+  static const String skip = "SKIP";
+  static const String next = "NEXT";
+  static const String gotIt = "GOT IT";
+}
